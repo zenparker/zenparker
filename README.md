@@ -1,3 +1,16 @@
+// ============================================================================
+// Personal Profile Template
+// ============================================================================
+/*
+ * @file:         Zen Parker
+ * @description:  Software Developer & Tech Enthusiast
+ * @contact:      zaheerocean@gmail.com
+ * @location:     Global
+ * @education:    [Your Education]
+ * @experience:   [Years of Experience] years of experience in software development
+ * @specialties:  Web Development, AI Integration, Full-Stack Engineering
+ */
+
 # 💫 About Me:
 I am a software developer focused on building practical, scalable applications and continuously improving my technical skills.<br><br>Currently working on: Web and AI-based projects<br>Looking to collaborate on: Open-source and innovative tech ideas<br>Looking for help with: System design and backend optimization<br>Currently learning: Advanced web technologies and cloud fundamentals<br>Ask me about: Web development, JavaScript, APIs<br>Fun fact: I enjoy simplifying complex problems into clear solutions
 

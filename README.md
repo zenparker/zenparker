@@ -38,7 +38,7 @@ me.say_hi()
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
 
 <p align="center">
-  <img src="./gifs/dino.gif" alt="Coding Dino" width="200" height="200" />
+  <img src="./gifs/hello.gif" alt="Coding Dino" width="200" height="200" />
 </p>
 
 <h3 align="left">🚀 Quick Stats:</h3>

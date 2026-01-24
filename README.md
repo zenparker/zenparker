@@ -1,4 +1,4 @@
-Konnichiwa. Zaheer desu. Yoroshiku onegaishimasu.
+(こんにちは。ザヒールです。よろしくお願いします。) Konnichiwa. Zaheer desu. Yoroshiku onegaishimasu.
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zenparker.zenparker)

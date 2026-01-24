@@ -37,6 +37,10 @@ me.say_hi()
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
 
+<p align="center">
+  <img src="./gifs/dino.gif" alt="Coding Dino" width="150" height="150" />
+</p>
+
 <h3 align="left">🚀 Quick Stats:</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenparker&theme=github_dark" alt="GitHub Stats" />
@@ -55,6 +59,7 @@ I m driven by problem-solving, first-principles thinking, and continuous learnin
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/zenparker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://paypal.me/zaheeralishaikh" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="PayPal Donate" height="60px" width="150px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/zenparker/zenparker/master/gifs/coder.gif" />
 

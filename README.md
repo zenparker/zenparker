@@ -28,9 +28,9 @@ public:
         profession = "Software Developer & Tech Enthusiast";
         email = "zaheerocean@gmail.com";
         location = "Global";
-        education = "[Your Education]";
-        experience_years = [Years of Experience];
-        specialties = {"Web Development", "AI Integration", "Full-Stack Engineering"};
+        education = "Bachelor of Computer Engineering (ECE)";
+        experience_years = 5;
+        specialties = {"Web Development", "AI Integration", "Full-Stack Engineering", "Data Science"};
         current_focus = "Web and AI-based projects";
         collaboration_interest = "Open-source and innovative tech ideas";
         seeking_help_with = "System design and backend optimization";
@@ -55,10 +55,6 @@ int main() {
     return 0;
 }
 ```
-
-# 💫 About Me:
-I am a software developer focused on building practical, scalable applications and continuously improving my technical skills.<br><br>Currently working on: Web and AI-based projects<br>Looking to collaborate on: Open-source and innovative tech ideas<br>Looking for help with: System design and backend optimization<br>Currently learning: Advanced web technologies and cloud fundamentals<br>Ask me about: Web development, JavaScript, APIs<br>Fun fact: I enjoy simplifying complex problems into clear solutions
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iamzenparker) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zenpark3r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zenparker) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zenpark3r) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/zenpark3r) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/zenpark3r) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zenpark3r) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zenpark3r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zenpark3r) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zenpark3r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaheerocean@gmail.com) 

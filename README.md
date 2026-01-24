@@ -5,6 +5,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/zenpark3r/)
 
 こんにちは。ザヒールです。よろしくお願いします。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Zaheer/snk](https://github.com/Zaheer/snk)_
 
 [![Visitors](https://komarev.com/ghpvc/?username=zenparker&label=Profile%20Views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=zenparker)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)

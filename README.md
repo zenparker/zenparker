@@ -7,20 +7,25 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Zaheer Ali Shaikh"
         self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language_spoken = ["en", "ur", "ar", "de", "N/A"]
+        self.tech_stack = ["Python", "JavaScript", "HTML", "CSS", "SQL"]
+        self.currently_learning = ["System Design", "Backend Development"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
+    def __repr__(self):
+        return f"{self.name} | {self.role}"
+
 
 me = SoftwareEngineer()
 me.say_hi()
+
 ```
 
 ## 📝 Blogs
@@ -89,11 +94,11 @@ me.say_hi()
 <!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/zenparker/zenparker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenparker&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenparker&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zaheer GitHub Stats" />
 </a>
 
 <a href="https://github.com/zenparker/zenparker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zenparker&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zenparker&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zaheer GitHub Stats" />
 </a> -->
 
 ## 🏆 GitHub Trophies
@@ -112,4 +117,4 @@ me.say_hi()
 
 <!-- ## 👨‍💻 This week, I spent my time on:
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Zaheer wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->

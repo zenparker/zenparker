@@ -6,7 +6,7 @@
 
 こんにちは。ザヒールです。よろしくお願いします。
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zenparker.zenparker)
+[![Visitors](https://komarev.com/ghpvc/?username=zenparker&label=Profile%20Views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=zenparker)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
@@ -35,7 +35,12 @@ me.say_hi()
 ```
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://zaheer.vercel.app/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
+
+<h3 align="left">🚀 Quick Stats:</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zenparker&theme=github_dark" alt="GitHub Stats" />
+</p>
 I m Zaheer Ali Shaikh, a Full Stack Developer focused on building scalable web applications and AI-driven products. I work across the stack using JavaScript, React, Next.js, Node.js, MongoDB, and AWS, with experience in developing end-to-end solutions from scratch. 
 
 I m driven by problem-solving, first-principles thinking, and continuous learning. Outside of coding, I explore emerging technologies and follow tech deep-dives to stay current. Feel free to connect with me @zenparker for collaboration or tech discussions.
@@ -75,7 +80,7 @@ Most used languages: **TypeScript**, **JavaScript**
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="cpp" width="30" height="30"></code>
+<code><img height="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"></code>
@@ -99,8 +104,7 @@ Most used languages: **TypeScript**, **JavaScript**
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="30" height="30"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="30" height="30"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shadcnui/shadcnui-original.svg" alt="shadcn" width="30" height="30"></code>
-<code><img height="27" src="https://tanstack.com/img/logo-dark.svg" alt="tanstack" width="30" height="30"></code>
+
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>

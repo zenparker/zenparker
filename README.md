@@ -59,7 +59,6 @@ I m driven by problem-solving, first-principles thinking, and continuous learnin
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/zenparker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-<a href="https://paypal.me/zaheeralishaikh" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_44x28.png" alt="PayPal" height="60px" width="150px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/zenparker/zenparker/master/gifs/coder.gif" />
 

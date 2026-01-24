@@ -14,7 +14,12 @@ struct DeveloperProfile {
     std::string diploma = "Diploma in Computer Engineering, MSBTE";
     
     // Skills
-    std::vector<std::string> skills = {"Java", "Python", "C++", "JavaScript/TypeScript", "Go", "Rust", "HTML", "CSS", "React", "Angular", "Node.js", "SQL", "NoSQL", "Git/GitHub", "OOP", "DSA"};
+    std::vector<std::string> programming_languages = {"TypeScript", "JavaScript", "Python", "Java 21", "C++", "Go", "Rust", "Kotlin", "Swift", "C#", "PHP", "Ruby", "Dart", "Scala"};
+    std::vector<std::string> frontend_skills = {"React 19", "Next.js 15", "Vue 3", "SvelteKit", "TypeScript", "Tailwind CSS", "Shadcn UI", "TanStack", "HTML", "CSS", "Angular"};
+    std::vector<std::string> backend_skills = {"Node.js", "Express", "NestJS", "System Design", "PostgreSQL", "MongoDB", "Prisma", "GraphQL"};
+    std::vector<std::string> data_science_skills = {"Python", "TensorFlow 3", "PyTorch 2", "Scikit-Learn", "Pandas", "NumPy", "Jupyter", "Hugging Face"};
+    std::vector<std::string> ai_skills = {"Gemini API", "OpenAI API", "LangChain", "Transformers", "RAG Systems", "Vector DBs", "Fine-tuning"};
+    std::vector<std::string> devops_skills = {"Docker", "Kubernetes", "Terraform", "AWS", "Azure", "GCP", "GitHub Actions", "Prometheus"};
     
     // Projects
     std::vector<std::string> projects = {

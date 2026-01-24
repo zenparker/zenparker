@@ -1,32 +1,40 @@
+
 ```cpp
 #include <iostream>
 #include <string>
 #include <vector>
 
-
-class SoftwareEngineer {
-private:
-    std::string name;
-    std::string role;
-    std::vector<std::string> language_spoken;
-
-public:
-    SoftwareEngineer() {
-        name = "Zhenye Na";
-        role = "Software Engineer";
-        language_spoken = {"zh_CN", "en_US"};
-    }
-
-    void say_hi() {
-        std::cout << "Thanks for dropping by, hope you find some of my work interesting." << std::endl;
+struct DeveloperProfile {
+    std::string name = "Zaheer Ali Shaikh";
+    int age = 21;
+    std::string email = "zaheerocean@gmail.com";
+    
+    // Education
+    std::string education = "B.E. in Electrical & Computer Engineering, University of Mumbai";
+    std::string diploma = "Diploma in Computer Engineering, MSBTE";
+    
+    // Skills
+    std::vector<std::string> skills = {"Java", "Python", "C++", "JavaScript/TypeScript", "Go", "Rust", "HTML", "CSS", "React", "Angular", "Node.js", "SQL", "NoSQL", "Git/GitHub", "OOP", "DSA"};
+    
+    // Projects
+    std::vector<std::string> projects = {
+        "NOVAbeat — Music Streaming App (Flutter & Firebase)",
+        "AI Chatbot (Google Gemini Clone)",
+        "Amazon Clone (E-Commerce System)",
+        "Recommendation System"
+    };
+    
+    void introduce() {
+        std::cout << "Hi, I'm " << name << ", a " << age << " year old Developer!" << std::endl;
     }
 };
 
 int main() {
-    SoftwareEngineer me;
-    me.say_hi();
+    DeveloperProfile me;
+    me.introduce();
     return 0;
-}```
+}
+```
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iamzenparker) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zenpark3r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zenparker) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zenpark3r) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/zenpark3r) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/zenpark3r) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zenpark3r) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zenpark3r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zenpark3r) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zenpark3r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaheerocean@gmail.com) 

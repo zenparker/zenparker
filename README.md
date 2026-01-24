@@ -38,7 +38,7 @@ me.say_hi()
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
 
 <p align="center">
-  <img src="./gifs/dino.gif" alt="Coding Dino" width="150" height="150" />
+  <img src="./gifs/dino.gif" alt="Coding Dino" width="200" height="200" />
 </p>
 
 <h3 align="left">🚀 Quick Stats:</h3>
@@ -59,7 +59,7 @@ I m driven by problem-solving, first-principles thinking, and continuous learnin
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/zenparker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-<a href="https://paypal.me/zaheeralishaikh" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="PayPal Donate" height="60px" width="150px" ></a>
+<a href="https://paypal.me/zaheeralishaikh" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_44x28.png" alt="PayPal" height="60px" width="150px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/zenparker/zenparker/master/gifs/coder.gif" />
 
@@ -101,7 +101,7 @@ Most used languages: **TypeScript**, **JavaScript**
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="30" height="30"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/huggingface/hub-docs/main/docs/source/assets/huggingface_logo-noborder.svg" alt="huggingface" width="30" height="30"></code>
+<code><img height="27" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="30" height="30"></code>
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="27" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30"></code>

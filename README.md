@@ -40,32 +40,13 @@ int main() {
     me.introduce();
     return 0;
 }
+```
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/iamzenparker) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zenpark3r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zenparker) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zenpark3r) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/zenpark3r) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/zenpark3r) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zenpark3r) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zenpark3r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zenpark3r) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@zenpark3r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaheerocean@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=neon)
-
-### 📈 Progress Bar
-<!-- Progress bars for different skill levels -->
-**Programming Languages:** `C++` `Python` `JavaScript` `Java`
-```text
-██████████████████████████████████████ 100% - Proficient
-```
-
-**Web Development:** `React` `Node.js` `HTML/CSS` `TypeScript`
-```text
-██████████████████████████████████████ 100% - Expert
-```
-
-**Database & Cloud:** `MongoDB` `PostgreSQL` `AWS` `Firebase`
-```text
-████████████████████████████████████ 95% - Advanced
-```
-
-### 🐍 Snake Eating My Contributions
-![Snake Game](https://raw.githubusercontent.com/zenparker/zenparker/output/github-contribution-grid-snake.svg)
  
 
 

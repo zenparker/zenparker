@@ -8,6 +8,7 @@ struct DeveloperProfile {
     string name = "Zaheer Ali Shaikh";
     int age = 21;
     string email = "zaheerocean@gmail.com";
+    vector<string> language_spoken = {"English", "Urdu", "Arabic", "German"}; // Languages I speak
     
     // Education
     string education = "B.E. in Electrical & Computer Engineering, University of Mumbai";
@@ -31,6 +32,11 @@ struct DeveloperProfile {
     
     void introduce() {
         cout << "Hi, I'm " << name << ", a " << age << " year old Developer!" << endl;
+        cout << "I speak: ";
+        for(const auto& lang : language_spoken) {
+            cout << lang << ", ";
+        }
+        cout << endl;
     }
 };
 

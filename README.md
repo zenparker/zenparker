@@ -1,15 +1,60 @@
-// ============================================================================
-// Personal Profile Template
-// ============================================================================
-/*
- * @file:         Zen Parker
- * @description:  Software Developer & Tech Enthusiast
- * @contact:      zaheerocean@gmail.com
- * @location:     Global
- * @education:    [Your Education]
- * @experience:   [Years of Experience] years of experience in software development
- * @specialties:  Web Development, AI Integration, Full-Stack Engineering
- */
+
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+
+
+class SoftwareEngineer {
+private:
+    std::string name;
+    int age;
+    std::string profession;
+    std::string email;
+    std::string location;
+    std::string education;
+    int experience_years;
+    std::vector<std::string> specialties;
+    std::string current_focus;
+    std::string collaboration_interest;
+    std::string seeking_help_with;
+    std::string current_learning;
+    std::string fun_fact;
+
+public:
+    SoftwareEngineer() {
+        name = "Zaheer Ali Shaikh";
+        age = 21;
+        profession = "Software Developer & Tech Enthusiast";
+        email = "zaheerocean@gmail.com";
+        location = "Global";
+        education = "[Your Education]";
+        experience_years = [Years of Experience];
+        specialties = {"Web Development", "AI Integration", "Full-Stack Engineering"};
+        current_focus = "Web and AI-based projects";
+        collaboration_interest = "Open-source and innovative tech ideas";
+        seeking_help_with = "System design and backend optimization";
+        current_learning = "Advanced web technologies and cloud fundamentals";
+        fun_fact = "I enjoy simplifying complex problems into clear solutions";
+    }
+
+    void introduce() {
+        std::cout << "Hi, I'm " << name << ", a " << age << " year old " << profession << "." << std::endl;
+        std::cout << "I specialize in: ";
+        for(const auto& specialty : specialties) {
+            std::cout << specialty << ", ";
+        }
+        std::cout << std::endl;
+        std::cout << "Thanks for visiting my profile, hope you find my work interesting!" << std::endl;
+    }
+};
+
+int main() {
+    SoftwareEngineer me;
+    me.introduce();
+    return 0;
+}
+```
 
 # 💫 About Me:
 I am a software developer focused on building practical, scalable applications and continuously improving my technical skills.<br><br>Currently working on: Web and AI-based projects<br>Looking to collaborate on: Open-source and innovative tech ideas<br>Looking for help with: System design and backend optimization<br>Currently learning: Advanced web technologies and cloud fundamentals<br>Ask me about: Web development, JavaScript, APIs<br>Fun fact: I enjoy simplifying complex problems into clear solutions

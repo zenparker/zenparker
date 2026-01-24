@@ -1,5 +1,4 @@
-# ハロー！ こんにちは！ (Hello! Nice to meet you!)
-
+Konnichiwa. Zaheer desu. Yoroshiku onegaishimasu.
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zenparker.zenparker)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 

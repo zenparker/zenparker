@@ -66,7 +66,7 @@ I m driven by problem-solving, first-principles thinking, and continuous learnin
 Like My Work?
 
 <p>
-  <a href="https://www.buymeacoffee.com/zaheeralishaikh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
+  <a href="https://https://buymeacoffee.com/zaheershaikh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
   <a href="https://paypal.me/zaheeralishaikh" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/images/paypal.png" alt="PayPal" height="60px"></a>
 </p>
 

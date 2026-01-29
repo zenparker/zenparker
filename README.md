@@ -66,7 +66,7 @@ I m driven by problem-solving, first-principles thinking, and continuous learnin
 Like My Work?
 
 <p>
-  <a href="https://https://buymeacoffee.com/zaheershaikh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
+  <a href="https://www.buymeacoffee.com/zaheershaikh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
   <a href="https://paypal.me/zaheeralishaikh" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/images/paypal.png" alt="PayPal" height="60px"></a>
 </p>
 
@@ -76,7 +76,7 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/zenparker/)! I am happy to help.
+- 💬 &nbsp; Ask me anything [here](https://github.com/zenparker/zenparker/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: zaheerocean@gmail.com.
 
